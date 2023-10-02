@@ -5,3 +5,8 @@ checkpoints/
 .vscode/
 nni_experiments/
 .env/
+build/
+ont_bonito.egg-info/
+dist/
+basecalls.bam
+basecalls_summary.tsv
